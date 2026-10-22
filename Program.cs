@@ -7,4 +7,9 @@ class Program
     {
         Console.WriteLine("hello everyone");
     }
+
+    public static void HelloBlack()
+    {
+        Console.WriteLine("hello black");
+    }
 }
