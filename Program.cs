@@ -5,6 +5,6 @@ class Program
 {
     public static void Main()
     {
-        Console.WriteLine("hello white");
+        Console.WriteLine("hello everyone");
     }
 }
